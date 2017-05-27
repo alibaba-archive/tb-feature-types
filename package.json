@@ -1,0 +1,16 @@
+{
+  "name": "tb-feature-types",
+  "version": "0.0.1",
+  "main": "./lib",
+  "repository": "git@github.com:teambition/tb-feature-types.git",
+  "author": "lee <leesumiir@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && tman -R spec 'test/*.js'"
+  },
+  "devDependencies": {
+    "should": "^11.2.1",
+    "standard": "^10.0.2",
+    "tman": "^1.6.7"
+  }
+}
