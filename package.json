@@ -1,6 +1,6 @@
 {
   "name": "tb-feature-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib",
   "repository": "git@github.com:teambition/tb-feature-types.git",
   "author": "lee <leesumiir@gmail.com>",
